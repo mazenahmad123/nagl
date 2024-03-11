@@ -1,0 +1,10 @@
+﻿.inputError, .inputRequiredError, .inputRangeError, .inputRegxError, .inputComparError {
+    border-color: red !important;
+}
+.editInputInGrid.inputError, .editInputInGrid.inputRequiredError, .editInputInGrid.inputRangeError, .editInputInGrid.inputRegxError, .editInputInGrid.inputComparError {
+    background-color:#ffbdbd !important;
+}
+.required, .rang, .regx, .compar, .validator {
+}
+.floatValue, .intValue {
+}
